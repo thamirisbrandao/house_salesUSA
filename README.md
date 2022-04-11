@@ -73,7 +73,7 @@ cd tmp
 house_salesUSA-run
 ```
 
-**Columm definition**
+# Columm definition
 id - Unique ID for each home sold
 
 date - Date of the home sale
